@@ -1,11 +1,11 @@
-# 🏥 Hospital Database Management using Node.js, Express.js, and MySQL
+# 🏥 Hospital Database Management using Express.js, and MySQL
 
 This project is a simple **Hospital Database Management System** built using **Node.js**, **Express.js**, and **MySQL**. It demonstrates how to connect a Node.js application with a MySQL database and perform basic database operations such as creating a database, creating a table, inserting records, retrieving records, updating records, deleting records, and selecting specific columns.
 
 ## Features
 
 * Create a MySQL database
-* Connect Node.js / Express.js application to MySQL
+* Connect Express.js application to MySQL
 * Create a table for storing patient details
 * Insert records into the table
 * Retrieve all records from the table
@@ -15,7 +15,6 @@ This project is a simple **Hospital Database Management System** built using **N
 
 ## Technologies Used
 
-* Node.js
 * Express.js
 * MySQL
 * mysql2
